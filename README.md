@@ -22,11 +22,11 @@ Hello, lets learn a little bit about python Have you ever played Mad Libs? Well,
 
 5. Step 5: Using this same template, ask the user to enter a word type for each of the ones you counted
 	* *Example:*
-	* adj1 = raw_input("Please enter an adjective: ")
+	* ```adj1 = raw_input("Please enter an adjective: ")```
 
 6. Step 6: Once the user has unput all of his/her words, print out your Mad Libs template, replacing each underlined section with the corresponding word
 	* *Note* look up string concatenation and how it works
 	* *Example:*
-	* adj1 = 'fun'
-	* concatenated_string = 'This exercise is so ' + adj1+ '!'
-	* print concated_string
+	* ```adj1 = 'fun'```
+	* ```concatenated_string = 'This exercise is so ' + adj1+ '!'```
+	* ```print concated_string```
