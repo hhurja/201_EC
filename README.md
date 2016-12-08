@@ -14,7 +14,7 @@ Hello, lets learn a little bit about python Have you ever played Mad Libs? Well,
 
 3. Step 3: Lets tell our user what to do.
 	* Look up how to accept text input from the command line, *hint* use "raw_input()"
-	* Try a test; ask the user what his/her name is.
+	* Try a test; ask the user what his/her name is. \n
 ```name = raw_input("Please Enter Your name: ") ```
 ```print "Hello", name ```
 
