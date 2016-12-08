@@ -18,14 +18,15 @@
 3. Step 3: Lets tell our user what to do.
 	* Look up how to accept text input from the command line, *hint* use "raw_input()"
 	* Try a test; ask the user what his/her name is.
-/name = raw_input("Please Enter Your name: ")/
-/print "Hello", name/
+	* name = raw_input("Please Enter Your name: ")
+	* print "Hello", name
 4. Step 4: Make a variable (or an array of variables) for each off the word types that you counted earlier
 5. Step 5: Using this same template, ask the user to enter a word type for each of the ones you counted
-	* *Example* adj1 = raw_input("Please enter an adjective: ")
+	* *Example:*
+	* adj1 = raw_input("Please enter an adjective: ")
 6. Step 6: Once the user has unput all of his/her words, print out your Mad Libs template, replacing each underlined section with the corresponding word
 	* *Note* look up string concatenation and how it works
-	* *Example*
-/adj1 = 'fun'/
-/concatenated_string = 'This exercise is so ' + adj1+ '!'/
-/print concated_string/
+	* *Example:*
+	* adj1 = 'fun'
+	* concatenated_string = 'This exercise is so ' + adj1+ '!'
+	* print concated_string
