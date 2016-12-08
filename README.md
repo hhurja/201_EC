@@ -1,12 +1,6 @@
 ###Description
-* Hello, lets learn a little bit about python
-* Have you ever played Mad Libs?
-* Well, either way, we are going to make our own version today
-* Our program will deal with some simple concepts such as variables and user input
-* A variable is a name assigned to some value
-* User Input is when you tell the computer what to do
-* Today we will be using words you type from your keyboard
-* This will make more sense as we go along
+* Sample Mad Libs project written in/for python by Hunter Hurja and Adam Moffitt
+Hello, lets learn a little bit about python Have you ever played Mad Libs? Well, either way, we are going to make our own version today Our program will deal with some simple concepts such as variables and user input A variable is a name assigned to some value User Input is when you tell the computer what to do Today we will be using words you type from your keyboard This will make more sense as we go along
 
 ###Instructions
 
@@ -27,7 +21,7 @@
 5. Step 5: Using this same template, ask the user to enter a word type for each of the ones you counted
 	* *Example:*
 	* adj1 = raw_input("Please enter an adjective: ")
-	
+
 6. Step 6: Once the user has unput all of his/her words, print out your Mad Libs template, replacing each underlined section with the corresponding word
 	* *Note* look up string concatenation and how it works
 	* *Example:*
