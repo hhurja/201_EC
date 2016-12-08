@@ -1,5 +1,7 @@
 ###Description
 * Sample Mad Libs project written in/for python by Hunter Hurja and Adam Moffitt
+
+###Lets Get Started
 Hello, lets learn a little bit about python Have you ever played Mad Libs? Well, either way, we are going to make our own version today Our program will deal with some simple concepts such as variables and user input A variable is a name assigned to some value User Input is when you tell the computer what to do Today we will be using words you type from your keyboard This will make more sense as we go along
 
 ###Instructions
